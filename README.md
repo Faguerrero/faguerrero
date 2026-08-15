@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Fabián Guerrero! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
@@ -42,6 +42,17 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
   
+# FABIAN GUERRERO
+
+## Professional experience
+
+### Senior Content Designer, GitHub
+#### Since June 2015
+Content discovery and design for GitHub Docs team to ensure documentation sets meet user needs, are scalable, discoverable and accessible. 
+
+### Technical Writer, Argentine Government Cabinet Office
+#### October 1987 to May 2021
+Designing guidance for digital teams in government to help them build citizen-centered services. 
 
 
 
