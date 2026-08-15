@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nada
 - 😄 Pronouns: fachi
 - ⚡ Fun fact: doctor
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+1. Under your repository name, click **Actions**.
+
+   ![Screenshot of the tabs for the "github/docs" repository. The "Actions" tab is highlighted with an orange outline.](/assets/images/help/repository/actions-tab-global-nav-update.png)
+
+   This is another paragraph in the list.
+
+1. This is the next item.
+
+
 
 
